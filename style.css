@@ -216,7 +216,7 @@ a {
   }
 }
 
-.icon_dots {
+/* .icon_dots {
   transition: all 1s;
   animation: icon_dots 5s linear infinite;
   z-index: 5;
@@ -228,9 +228,9 @@ a {
   50% {
     transform: translateY(-15px);
   }
-}
+} */
 
-.icon_plus {
+/* .icon_plus {
   transition: all 1s;
   animation: icon_plus 5s linear infinite;
   z-index: 5;
@@ -248,7 +248,7 @@ a {
   100% {
     transform: rotateY(360deg) translateY(0px);
   }
-}
+} */
 
 .project_section {
   background-color: rgb(231, 231, 231);
@@ -411,14 +411,14 @@ a {
 }
 
 #project1 {
-  background-image: url("./Images/projects/Project1.png");
+  background-image: url("./Images/projects/FoodZy.png");
 }
 
 #project2 {
-  background-image: url("./Images/projects/Project2.png");
+  background-image: url("./Images/projects/Bankist.png");
 }
 #project3 {
-  background-image: url("./Images/projects/Project3.png");
+  background-image: url("./Images/projects/Pig_game.png");
 }
 #project4 {
   background-image: url("./Images/projects/Project4.png");
@@ -524,6 +524,7 @@ a {
   padding: 0.6rem 2rem;
   font-size: 18px;
   box-shadow: 3px 3px 5px #1f1f1f9a;
+  border-radius: 8px 8px;
   border: none;
 }
 
