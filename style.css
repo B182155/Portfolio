@@ -410,6 +410,10 @@ a {
   margin-left: 120px;
 }
 
+#project0 {
+  background-image: url("./Images/projects/Issues-tracker.png");
+}
+
 #project1 {
   background-image: url("./Images/projects/FoodZy.png");
 }
